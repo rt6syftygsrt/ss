@@ -27,7 +27,7 @@ client.user.setGame(`$help|welcome`,'https://www.twitch.tv/tarikrs');           
 
 
 
-const adminprefix = "-";
+const adminprefix = "!";
 const developers = ['438371243801051141'];
 
 console.log("Randy ");
